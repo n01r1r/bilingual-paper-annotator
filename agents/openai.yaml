@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bilingual Paper Annotator"
+  short_description: "Build an English–Korean annotated paper in HTML"
+  default_prompt: "Use $bilingual-paper-annotator to turn the supplied paper into a standalone English–Korean HTML reader with paragraph-level argument annotations."
